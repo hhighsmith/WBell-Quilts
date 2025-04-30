@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a collection of images of my late maternal grandmother’s quilts.  Her name was Willie Belle Bell. She was a passionate quilter and while she created many of her quilts to donate, there are still many in the possession of family.  The collection was created with the purpose of honoring Willie’s beautiful works, and sharing amongst family and other quilters.  All of the quilts shown were created without a pattern.  They are either completely original designs or based on a design that is a part of the public domain.
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
